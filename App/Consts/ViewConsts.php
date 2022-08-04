@@ -11,4 +11,5 @@ class ViewConsts
     const EDIT_TASK_PAGE_TITLE = 'Изменить задачу';
     const NOT_FOUND_PAGE_TITLE = 'Страница не найдена';
     const PAGE_NOT_FOUND_MESSAGE = 'Страница не найдена';
+
 }
